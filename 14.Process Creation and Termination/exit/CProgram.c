@@ -7,11 +7,12 @@
 
 int main() {
 	
-	printf("\n Jarvis says HEllo ! \n ");
+	printf("\n Jarvis says Hello ! \n ");
 	
-	exit();
+	exit(0);
+	//exit(0);
 	
-	printf("\nJarvis is going to sleep\n" )
+	printf("\nJarvis is going to sleep\n" );
 	
 	
 	
