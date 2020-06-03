@@ -8,7 +8,11 @@
 int main() {
 	
 	fork();
+<<<<<<< HEAD
 	printf("\n Jarvis says HEllo ! \n ");
+=======
+	printf("\n HBP says HEllo ! \n ");
+>>>>>>> master
 	
 	
 	
